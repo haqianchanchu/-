@@ -11,7 +11,7 @@ https://github.com/haqianchanchu/-/edit/main/resume.md
  - 姚雨松/男/1999
  - 本科/西安电子科技大学 （2017-2021，专业：信息安全） 
  - 硕士/西安电子科技大学 （2021-2024，专业：信息安全） 
-<img src="https://github.com/haqianchanchu/-/blob/main/%E7%85%A7%E7%89%87.png" width=60%>
+<img src="https://github.com/haqianchanchu/-/blob/main/%E7%85%A7%E7%89%87.png" width=20%>
 
 # 主要经历
 ## 获奖作品
