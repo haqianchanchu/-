@@ -16,8 +16,6 @@
 <img src="https://github.com/haqianchanchu/-/blob/main/%E7%85%A7%E7%89%87.png">
 
 # 主要经历
-（工作经历按逆序排列，最新的在最前边，按公司做一级分组，公司内按二级分组）
-
 ## 获奖作品
 
 ### 13届大学生信息安全竞赛一等奖（http://www.ciscn.cn/announcement/view/167）
