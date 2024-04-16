@@ -1,12 +1,10 @@
 ## 简历
-
+https://github.com/haqianchanchu/-/edit/main/resume.md
 # 联系方式
 
 - 手机：18235936961
 - Email：810675881@qq.com 
 - 微信号：yys888777
-
----
 
 # 个人信息
 
